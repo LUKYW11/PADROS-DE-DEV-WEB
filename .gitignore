@@ -1,4 +1,4 @@
-#JAVA
+# Java
 # Compiled class file
 *.class
 
@@ -24,7 +24,7 @@
 hs_err_pid*
 replay_pid*
 
-#MAVEM
+# Maven
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -43,7 +43,7 @@ buildNumber.properties
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
-#LINUX
+# Linux
 *~
 
 # temporary files which can be created if a process still has a handle open of a deleted file
@@ -61,7 +61,7 @@ buildNumber.properties
 # Log files created by default by the nohup command
 nohup.out
 
-#VISUAL STUDIOS
+# VSCode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -72,27 +72,3 @@ nohup.out
 
 # Built Visual Studio Code Extensions
 *.vsix
-# Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
